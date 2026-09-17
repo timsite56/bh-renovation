@@ -17,7 +17,7 @@
   },
   "apropos": {
     "image": "images/apropos.jpg",
-    "texte": "BH.RENOVATION est une entreprise de couverture, de façade et de peinture installée au 12 rue de Senlis, à Compiègne. Rénovation et réparation de toiture, couverture neuve, zinguerie, traitement et peinture de toiture, nettoyage et ravalement de façade, peinture intérieure et extérieure : nous prenons en charge le clos, le couvert et les finitions, chez les particuliers comme pour les professionnels.\n\nNous intervenons à Compiègne, Margny-lès-Compiègne, Clairoix, Venette, Jaux, Choisy-au-Bac, Verberie, Crépy-en-Valois, Noyon, Senlis et dans tout le Compiégnois. Le bâti picard demande des méthodes précises : tuile plate et ardoise sur les toits anciens, murs en brique et en pierre calcaire, pluies d'automne et gelées qui n'épargnent rien. Nous diagnostiquons avant de chiffrer, le devis est gratuit et détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
+    "texte": "BH.RENOVATION est une entreprise de couverture, de façade et de peinture installée au 12 rue de Senlis, à Compiègne. Rénovation et réparation de toiture, couverture neuve, zinguerie, traitement et peinture de toiture, nettoyage et ravalement de façade, peinture intérieure et extérieure : nous prenons en charge le clos, le couvert et les finitions, chez les particuliers comme pour les professionnels.\n\nNous intervenons à Compiègne, Margny-lès-Compiègne, Clairoix, Venette, Jaux, Choisy-au-Bac, Verberie, Crépy-en-Valois, Noyon, Senlis et dans tout le Compiégnois. Le bâti picard demande des méthodes précises : tuile plate et tuile mécanique sur les toits anciens, murs en brique et en pierre calcaire, pluies d'automne et gelées qui n'épargnent rien. Nous diagnostiquons avant de chiffrer, le devis est gratuit et détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
     "badges": [
       "Garantie décennale",
       "Devis gratuit",
@@ -43,7 +43,7 @@
       "page": "renovation-reparation-toiture.html",
       "points": [
         "Diagnostic complet de la couverture",
-        "Remplacement des ardoises et tuiles cassées",
+        "Remplacement des tuiles cassées",
         "Reprise de la charpente et du support",
         "Traitement des infiltrations et des fuites",
         "Réfection partielle ou totale",
@@ -142,7 +142,7 @@
       "points": [
         "Pose de fenêtres de toit Velux",
         "Remplacement de Velux vétustes",
-        "Raccords d'étanchéité adaptés à l'ardoise",
+        "Raccords d'étanchéité adaptés à la tuile",
         "Stores et volets roulants",
         "Agrandissement de trémie",
         "Mise en lumière des combles"
@@ -214,11 +214,11 @@
   "faq": [
     {
       "question": "Quand faut-il envisager une rénovation de toiture ?",
-      "reponse": "Dès que vous constatez des tuiles déplacées ou des ardoises cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
+      "reponse": "Dès que vous constatez des tuiles déplacées ou cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
     },
     {
       "question": "Travaillez-vous l'ardoise comme la tuile ?",
-      "reponse": "Oui. La tuile plate picarde et la tuile mécanique dominent les toits du Compiégnois, aux côtés de l'ardoise sur le bâti de ville : nous travaillons les trois. Nous intervenons aussi sur tuile mécanique, fibrociment et bac acier."
+      "reponse": "Oui. La tuile plate picarde et la tuile mécanique dominent les toits du Compiégnois : nous les travaillons l'une comme l'autre, au crochet comme au mortier. Nous intervenons aussi sur tuile mécanique, fibrociment et bac acier."
     },
     {
       "question": "À quelle fréquence faut-il démousser un toit dans l'Oise ?",
@@ -230,7 +230,7 @@
     },
     {
       "question": "Intervenez-vous en urgence après une tempête ?",
-      "reponse": "Oui. En cas de fuite ou d'ardoises arrachées, nous passons en priorité poser une bâche de protection pour stopper les dégâts, puis nous chiffrons la remise en état."
+      "reponse": "Oui. En cas de fuite ou de tuiles arrachées, nous passons en priorité poser une bâche de protection pour stopper les dégâts, puis nous chiffrons la remise en état."
     },
     {
       "question": "Proposez-vous des devis gratuits ?",

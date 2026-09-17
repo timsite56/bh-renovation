@@ -1,0 +1,341 @@
+{
+  "nom_entreprise": "BH.RENOVATION",
+  "type_artisan": "Couvreur",
+  "ville": "Compiègne",
+  "telephone_affiche": "07 69 42 82 09",
+  "telephone_tel": "+33769428209",
+  "annee": "2026",
+  "design": {
+    "palette": "orange",
+    "nav_style": "transparent",
+    "stats_style": "classique"
+  },
+  "hero": {
+    "image": "images/hero-bg.jpg",
+    "titre": "Votre toiture et vos façades entre de bonnes mains, à Compiègne",
+    "description": "BH.RENOVATION, couvreur et rénovateur à Compiègne : rénovation de toiture, couverture neuve, zinguerie, traitement et peinture de toiture, ravalement de façade et peinture, dans tout le Compiégnois."
+  },
+  "apropos": {
+    "image": "images/apropos.jpg",
+    "texte": "BH.RENOVATION est une entreprise de couverture, de façade et de peinture installée au 12 rue de Senlis, à Compiègne. Rénovation et réparation de toiture, couverture neuve, zinguerie, traitement et peinture de toiture, nettoyage et ravalement de façade, peinture intérieure et extérieure : nous prenons en charge le clos, le couvert et les finitions, chez les particuliers comme pour les professionnels.\n\nNous intervenons à Compiègne, Margny-lès-Compiègne, Clairoix, Venette, Jaux, Choisy-au-Bac, Verberie, Crépy-en-Valois, Noyon, Senlis et dans tout le Compiégnois. Le bâti picard demande des méthodes précises : tuile plate et ardoise sur les toits anciens, murs en brique et en pierre calcaire, pluies d'automne et gelées qui n'épargnent rien. Nous diagnostiquons avant de chiffrer, le devis est gratuit et détaillé poste par poste, et le chantier est protégé puis nettoyé avant notre départ.",
+    "badges": [
+      "Garantie décennale",
+      "Devis gratuit",
+      "Artisan local dans l'Oise",
+      "Chantier propre"
+    ]
+  },
+  "stats": [
+    {
+      "valeur": "10",
+      "label": "Ans d'expérience"
+    },
+    {
+      "valeur": "200",
+      "label": "Réalisations"
+    }
+  ],
+  "services": [
+    {
+      "titre": "Rénovation et Réparation Toiture",
+      "description": "Inspection, diagnostic précis et travaux de remise à neuf pour prolonger la vie de votre toit et assurer son étanchéité.",
+      "image": "images/service1.jpg",
+      "page": "renovation-reparation-toiture.html",
+      "points": [
+        "Diagnostic complet de la couverture",
+        "Remplacement des ardoises et tuiles cassées",
+        "Reprise de la charpente et du support",
+        "Traitement des infiltrations et des fuites",
+        "Réfection partielle ou totale",
+        "Mise en conformité et étanchéité"
+      ]
+    },
+    {
+      "titre": "Pose de Toiture Neuve",
+      "description": "Installation complète de toitures traditionnelles ou modernes, avec des matériaux adaptés à vos besoins et au climat local.",
+      "image": "images/service2.jpg",
+      "page": "pose-toiture-neuve.html",
+      "points": [
+        "Ardoise naturelle, tuile ou bac acier",
+        "Dépose de l'ancienne couverture",
+        "Pose de l'écran sous-toiture",
+        "Liteaunage et fixation",
+        "Isolation de la sous-toiture",
+        "Finitions de rives, arêtiers et faîtage"
+      ]
+    },
+    {
+      "titre": "Entretien et Démoussage",
+      "description": "Nettoyage professionnel, traitement préventif et entretien régulier pour préserver l'intégrité et l'esthétique de votre couverture.",
+      "image": "images/service3.jpg",
+      "page": "entretien-demoussage.html",
+      "points": [
+        "Démoussage manuel et mécanique",
+        "Traitement curatif anti-mousse",
+        "Hydrofuge de protection",
+        "Curage des gouttières",
+        "Contrôle des ardoises et des faîtages",
+        "Entretien annuel programmé"
+      ]
+    },
+    {
+      "titre": "Peinture Intérieure",
+      "description": "Nous réalisons tous vos travaux de peinture pour murs, plafonds et boiseries. Choix de couleurs, conseils personnalisés et finitions impeccables pour un intérieur qui vous ressemble.",
+      "image": "images/service4.jpg",
+      "page": "peinture-interieure.html",
+      "points": [
+        "Murs, plafonds et boiseries",
+        "Rebouchage et préparation des supports",
+        "Peinture mate, satinée ou velours",
+        "Pose de papier peint et revêtements",
+        "Conseils couleurs personnalisés",
+        "Protection du mobilier et nettoyage"
+      ]
+    },
+    {
+      "titre": "Peinture Extérieure",
+      "description": "Protection et embellissement de vos façades, boiseries et ferronneries. Des produits résistants aux intempéries pour une durabilité et un esthétisme préservés.",
+      "image": "images/service5.jpg",
+      "page": "peinture-exterieure.html",
+      "points": [
+        "Façades, boiseries et ferronneries",
+        "Volets, portails et bardages",
+        "Traitement des supports avant peinture",
+        "Peintures résistantes au climat picard",
+        "Travail sur échafaudage sécurisé",
+        "Finitions nettes et durables"
+      ]
+    },
+    {
+      "titre": "Travaux de zinguerie",
+      "description": "Installation et réparation de gouttières, chéneaux et éléments en zinc pour une évacuation optimale des eaux pluviales et une protection accrue de votre façade.",
+      "image": "images/service6.jpg",
+      "page": "zinguerie.html",
+      "points": [
+        "Gouttières et descentes d'eau pluviale",
+        "Chéneaux et noues",
+        "Solins, bandeaux et rives",
+        "Habillage de souche de cheminée",
+        "Réparation de fuites en zinc",
+        "Zinguerie façonnée sur mesure"
+      ]
+    },
+    {
+      "titre": "Nettoyage et ravalement façade",
+      "description": "Redonnez un coup de jeune à vos murs extérieurs. Nous nettoyons et traitons vos façades pour une protection durable et une esthétique renouvelée.",
+      "image": "images/service7.jpg",
+      "page": "nettoyage-ravalement-facade.html",
+      "points": [
+        "Nettoyage basse et haute pression",
+        "Traitement anti-mousse des murs",
+        "Réparation des fissures",
+        "Enduit de façade et finitions",
+        "Protection hydrofuge",
+        "Devis détaillé poste par poste"
+      ]
+    },
+    {
+      "titre": "Installation et remplacement de Velux",
+      "description": "Pose et remplacement de fenêtres de toit Velux pour apporter plus de lumière et améliorer votre confort.",
+      "image": "images/service8.jpg",
+      "page": "pose-velux.html",
+      "points": [
+        "Pose de fenêtres de toit Velux",
+        "Remplacement de Velux vétustes",
+        "Raccords d'étanchéité adaptés à l'ardoise",
+        "Stores et volets roulants",
+        "Agrandissement de trémie",
+        "Mise en lumière des combles"
+      ]
+    },
+    {
+      "titre": "Peinture de toiture",
+      "description": "Redonnez de l'éclat à votre toiture grâce à une peinture professionnelle résistante aux intempéries et aux UV.",
+      "image": "images/service9.jpg",
+      "page": "peinture-toiture.html",
+      "points": [
+        "Nettoyage préalable de la couverture",
+        "Traitement anti-mousse",
+        "Peinture de toiture résistante aux UV",
+        "Application au pistolet ou au rouleau",
+        "Tuiles, fibrociment et bac acier",
+        "Aspect uniforme et longue tenue"
+      ]
+    }
+  ],
+  "avis": {
+    "google_score": "5.0",
+    "nb_avis": "3 avis",
+    "visible": true,
+    "temoignages": [
+      {
+        "initiale": "O",
+        "nom": "Olivier D",
+        "texte": "J' ai fait appel à BH.RENOVATION pour des travaux de peintures extérieures et traitement de toiture. C' est un artisan de confiance, professionnel et consciencieux et je suis très satisfait de son travail."
+      },
+      {
+        "initiale": "A",
+        "nom": "anne-marie Mével",
+        "texte": "Nettoyage et traitement mur en crépis , très satisfait du résultat pour un prix plus que raisonnable ."
+      },
+      {
+        "initiale": "S",
+        "nom": "Sébastien Caron",
+        "texte": "Toiture reprise après une fuite, puis démoussage complet et peinture de toiture. Devis clair, délai tenu et chantier nettoyé en partant. Du travail sérieux, je recommande."
+      }
+    ]
+  },
+  "galerie": [
+    {
+      "image": "images/gallery1.jpg",
+      "legende": "Ravalement de façade — avant / après"
+    },
+    {
+      "image": "images/gallery2.jpg",
+      "legende": "Rénovation d'un escalier extérieur"
+    },
+    {
+      "image": "images/gallery3.jpg",
+      "legende": "Nettoyage et remise en état d'une toiture"
+    },
+    {
+      "image": "images/gallery4.jpg",
+      "legende": "Réfection d'un muret et d'une clôture"
+    },
+    {
+      "image": "images/gallery5.jpg",
+      "legende": "Démoussage de toiture haute pression"
+    },
+    {
+      "image": "images/gallery6.jpg",
+      "legende": "Peinture de toiture en fibrociment"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quand faut-il envisager une rénovation de toiture ?",
+      "reponse": "Dès que vous constatez des tuiles déplacées ou des ardoises cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
+    },
+    {
+      "question": "Travaillez-vous l'ardoise comme la tuile ?",
+      "reponse": "Oui. La tuile plate picarde et la tuile mécanique dominent les toits du Compiégnois, aux côtés de l'ardoise sur le bâti de ville : nous travaillons les trois. Nous intervenons aussi sur tuile mécanique, fibrociment et bac acier."
+    },
+    {
+      "question": "À quelle fréquence faut-il démousser un toit dans l'Oise ?",
+      "reponse": "Tous les trois à cinq ans. L'humidité permanente et les vents d'ouest favorisent une repousse rapide des mousses, surtout sur les pans exposés au nord."
+    },
+    {
+      "question": "Dans quelles communes intervenez-vous ?",
+      "reponse": "Nous intervenons à Compiègne et dans tout le Compiégnois : Margny-lès-Compiègne, Clairoix, Venette, Jaux, Le Meux, Choisy-au-Bac, Lacroix-Saint-Ouen, Verberie, Estrées-Saint-Denis, Crépy-en-Valois, Noyon, Ribécourt-Dreslincourt, ainsi que Senlis et Creil."
+    },
+    {
+      "question": "Intervenez-vous en urgence après une tempête ?",
+      "reponse": "Oui. En cas de fuite ou d'ardoises arrachées, nous passons en priorité poser une bâche de protection pour stopper les dégâts, puis nous chiffrons la remise en état."
+    },
+    {
+      "question": "Proposez-vous des devis gratuits ?",
+      "reponse": "Oui, le devis est gratuit, détaillé poste par poste et sans engagement. Nous nous déplaçons sur place pour évaluer les travaux et vous donner un prix ferme."
+    }
+  ],
+  "contact_description": "Un projet de toiture, de façade ou de peinture ? Appelez-nous, le devis est gratuit.",
+  "footer_description": "BH.RENOVATION, couvreur et rénovateur à Compiègne (60). Toiture, zinguerie, traitement et peinture de toiture, ravalement de façade et peinture dans tout le Compiégnois.",
+  "seo": {
+    "title": "Couvreur à Compiègne (60) — toiture, façade et peinture | BH.RENOVATION",
+    "description": "BH.RENOVATION, couvreur à Compiègne : rénovation et réparation de toiture, couverture neuve, zinguerie, démoussage, traitement et peinture de toiture, ravalement de façade et peinture dans tout le Compiégnois. Devis gratuit au 07 69 42 82 09.",
+    "keywords": "couvreur Compiègne, couvreur 60, rénovation toiture Oise, traitement toiture Compiègne, démoussage toiture Oise, ravalement façade Compiègne, peinture extérieure Compiègne, zinguerie Compiègne, couvreur Margny-lès-Compiègne, couvreur Noyon, couvreur Senlis",
+    "email": "",
+    "code_postal": "60200",
+    "departement": "Oise",
+    "geo_region": "FR-60",
+    "lat": 49.4179,
+    "lng": 2.8261,
+    "villes": [
+      "Compiègne",
+      "Margny-lès-Compiègne",
+      "Clairoix",
+      "Venette",
+      "Jaux",
+      "Le Meux",
+      "Choisy-au-Bac",
+      "Lacroix-Saint-Ouen",
+      "Verberie",
+      "Estrées-Saint-Denis",
+      "Crépy-en-Valois",
+      "Noyon",
+      "Ribécourt-Dreslincourt",
+      "Senlis",
+      "Creil",
+      "Pierrefonds"
+    ]
+  },
+  "horaires": {
+    "visible": true,
+    "adresse": "12 rue de Senlis, 60200 Compiègne",
+    "lat": 49.4179,
+    "lng": 2.8261,
+    "jours": [
+      {
+        "nom": "Lundi",
+        "ferme": false,
+        "matin_debut": "07:30",
+        "matin_fin": "20:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mardi",
+        "ferme": false,
+        "matin_debut": "07:30",
+        "matin_fin": "20:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mercredi",
+        "ferme": false,
+        "matin_debut": "07:30",
+        "matin_fin": "20:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Jeudi",
+        "ferme": false,
+        "matin_debut": "07:30",
+        "matin_fin": "20:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Vendredi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "20:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Samedi",
+        "ferme": false,
+        "matin_debut": "08:30",
+        "matin_fin": "19:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Dimanche",
+        "ferme": true,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_debut": "13:30",
+        "am_fin": "18:00"
+      }
+    ]
+  }
+}

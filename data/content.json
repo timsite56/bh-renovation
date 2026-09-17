@@ -74,7 +74,7 @@
         "Traitement curatif anti-mousse",
         "Hydrofuge de protection",
         "Curage des gouttières",
-        "Contrôle des ardoises et des faîtages",
+        "Contrôle des tuiles et des faîtages",
         "Entretien annuel programmé"
       ]
     },
@@ -217,7 +217,7 @@
       "reponse": "Dès que vous constatez des tuiles déplacées ou cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
     },
     {
-      "question": "Travaillez-vous l'ardoise comme la tuile ?",
+      "question": "Travaillez-vous la tuile plate comme la tuile mécanique ?",
       "reponse": "Oui. La tuile plate picarde et la tuile mécanique dominent les toits du Compiégnois : nous les travaillons l'une comme l'autre, au crochet comme au mortier. Nous intervenons aussi sur tuile mécanique, fibrociment et bac acier."
     },
     {

@@ -188,27 +188,27 @@
   "galerie": [
     {
       "image": "images/gallery1.jpg",
-      "legende": "Ravalement de façade — avant / après"
-    },
-    {
-      "image": "images/gallery2.jpg",
-      "legende": "Rénovation d'un escalier extérieur"
-    },
-    {
-      "image": "images/gallery3.jpg",
-      "legende": "Nettoyage et remise en état d'une toiture"
-    },
-    {
-      "image": "images/gallery4.jpg",
       "legende": "Réfection d'un muret et d'une clôture"
     },
     {
-      "image": "images/gallery5.jpg",
+      "image": "images/gallery2.jpg",
+      "legende": "Ravalement de façade — avant / après"
+    },
+    {
+      "image": "images/gallery3.jpg",
+      "legende": "Peinture de toiture en fibrociment"
+    },
+    {
+      "image": "images/gallery4.jpg",
       "legende": "Démoussage de toiture haute pression"
     },
     {
+      "image": "images/gallery5.jpg",
+      "legende": "Rénovation d'un escalier extérieur"
+    },
+    {
       "image": "images/gallery6.jpg",
-      "legende": "Peinture de toiture en fibrociment"
+      "legende": "Nettoyage et remise en état d'une toiture"
     }
   ],
   "faq": [
